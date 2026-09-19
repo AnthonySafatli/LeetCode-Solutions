@@ -8,10 +8,10 @@ My solutions to [LeetCode](https://leetcode.com/) problems, written while practi
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy       |      2 |
-| Medium     |      3 |
+| Easy       |      3 |
+| Medium     |      5 |
 | Hard       |      0 |
-| **Total**  |  **5** |
+| **Total**  |  **8** |
 
 ## Languages
 
